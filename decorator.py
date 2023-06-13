@@ -1,5 +1,8 @@
 
 
+# https://github.com/Toytekin/py_2.Ay.git
+
+
 def ekstraDekoratore(fonk):
         def wrapper(sayilar):
                 cift_Syilar=0

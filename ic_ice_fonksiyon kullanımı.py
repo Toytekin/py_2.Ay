@@ -1,3 +1,6 @@
+
+
+# https://github.com/Toytekin/py_2.Ay.git
 def ana_fonksiyon(fonksiyon_adi):
         
         def toplama(*args):

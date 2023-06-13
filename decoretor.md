@@ -63,3 +63,5 @@ obj.method1()
 obj.method2()
 
 ##
+
+# Bu örnekler, decoratorların nasıl kullanılabileceğine ve kodu nasıl değiştirebileceğine dair bir fikir vermektedir. Decoratorlar, # Python'da oldukça güçlü bir araçtır ve kodunuzun davranışını dinamik olarak değiştirmenizi sağlar.
